@@ -20,6 +20,7 @@ The purpose of this analysis is to use a neural network to decide which companie
 
 **What steps did you take to try and increase model performance?**
 *Some of the steps I took to try and make the model more accurate were adding hidden layers, changing the activation type, changing the number of epochs and changing the number of neurons in each layer.
+![pic1](https://github.com/Klubbers0/Neural_Network_Charity_Analysis/blob/5de6987d9bbbe8fe4583053b9a915e576f21da1b/hidden%20layers.PNG)
 
 
 Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
